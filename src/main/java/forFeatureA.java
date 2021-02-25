@@ -7,5 +7,6 @@ public class forFeatureA {
         System.out.println("5");
         System.out.println("5");
         System.out.println("9");
+        System.out.println("10");
     }
 }
