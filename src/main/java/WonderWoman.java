@@ -5,5 +5,6 @@ public class WonderWoman {
         System.out.println("Merhaba");
         System.out.println("Merhaba");
         System.out.println("Merhaba");
+        System.out.println("2");
     }
 }
