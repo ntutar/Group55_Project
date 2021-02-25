@@ -10,5 +10,7 @@ public class forUs_123 {
         System.out.println("8");
         System.out.println("9");
         System.out.println("conflict");
+        System.out.println("conflict1");
+        System.out.println("conflict2");
     }
 }
