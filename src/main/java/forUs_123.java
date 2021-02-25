@@ -13,5 +13,6 @@ public class forUs_123 {
         System.out.println("1112");
         System.out.println("11123");
         System.out.println("111234");
+        System.out.println("11123456");
     }
 }
